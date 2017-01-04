@@ -225,8 +225,8 @@ function create_config( )
     "serverinfo",
     "supergroup",
     "tools"
-    },
-    sudo_users = {218722292,0,tonumber(our_id)},--Sudo users
+    },h
+    sudo_users = {192272530,312600226,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Jove]],
     help_text_realm = [[Jove]],
